@@ -1,0 +1,15 @@
+Admin
+
+email "ganesh700@gmail.com"
+password "ganesh123"
+
+student
+
+password"ganeshkumar" 
+email"ganesh1@gmail.com"
+
+Faculty
+
+
+password"faculty"
+email"faculty@gmail.com"
