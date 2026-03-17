@@ -131,7 +131,7 @@ function App() {
           element={<PrivateRoute element={<StudentDashboard />} />}
         />
         <Route
-          path="/student/dashboard/manage-profile"
+          path="/student/dashboard/manage-profile" 
           element={<PrivateRoute element={<StudentManageProfile />} />}
         />
         <Route
