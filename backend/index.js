@@ -6,7 +6,7 @@ const app = express();
 connectDB();
 const PORT = 5173
 
-app.use(express.json());
+app.use(express.json()); 
 app.use(cors({}))
 
 // Routes
